@@ -1,6 +1,6 @@
 {
-  "name": "smart-contract-builder",
-  "version": "1.0.0",
+  "name": "truffle-builder",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
