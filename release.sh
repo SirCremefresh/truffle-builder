@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-npm patch
+npm version patch
 git push origin --tags
