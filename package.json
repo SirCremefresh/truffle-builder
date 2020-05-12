@@ -7,10 +7,23 @@
     "obtain": "truffle obtain --solc 0.6.6"
   },
   "devDependencies": {
-    "truffle": "5.1.25",
-    "@truffle/hdwallet-provider": "1.0.35",
-    "web3": "1.2.7",
-    "ethers": "4.0.47"
+"truffle": "5.1.24",
+"truffle-typings": "1.0.8",
+"@truffle/hdwallet-provider": "1.0.35",
+"web3":  "1.2.7",
+"ethers": "4.0.47",
+"@openzeppelin/contracts": "^3.0.1",
+"@types/bignumber.js": "^5.0.0",
+"@types/chai": "^4.2.10",
+"@types/mocha": "^7.0.2",
+"dotenv": "^8.2.0",
+"jq2": "^1.0.1",
+"ts-node": "^8.6.2",
+"typechain": "^1.0.4",
+"typechain-target-ethers": "^1.0.2",
+"typechain-target-truffle": "^1.0.2",
+"typescript": "^3.8.3",
+"date-fns": "^2.11.1"
   },
   "keywords": [],
   "author": "",
