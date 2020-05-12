@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "truffle": "5.1.24",
-    "truffle-typings": "1.0.8",
+    "scrypt": "6.0.3",
     "@truffle/hdwallet-provider": "1.0.35",
     "web3": "1.2.7",
     "ethers": "4.0.47"
